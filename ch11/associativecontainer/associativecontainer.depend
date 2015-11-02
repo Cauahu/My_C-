@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446465620 source:d:\c++\cplusplus\ch11\associativecontainer\main.cpp
+	<iostream>
+	<map>
+	<set>
+	<fstream>
+	<string>
+
